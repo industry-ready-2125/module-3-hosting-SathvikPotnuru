@@ -82,7 +82,7 @@ body {
     margin-right: 0;
     padding: 0;
     border: 0;
-    background-image: url("intro-background.jpg");
+    background-image: url("/docs/images/intro-background.jpg");
     background-position-y: 10px;
     background-position-x: -560px;
     background-repeat: no-repeat;
